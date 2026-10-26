@@ -6,7 +6,7 @@ Driven by an "engineering from scratch" mindset, I bridge the gap between theore
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Programming Languages:** C, C++, Assembly (8051, x86), Python, C# (HMI development)
 * **Microcontrollers & Architectures:** STMicroelectronics (STM32), Espressif (ESP32), Raspberry Pi Silicon (RP2040), Maxim Integrated (DS89C450 / 8051)
