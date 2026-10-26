@@ -16,23 +16,14 @@ Driven by an "engineering from scratch" mindset, I bridge the gap between theore
 
 ---
 
-## 🚀 Key Projects (Featured Below)
-
-### [DEC-Final-Project-Automated-Turret](https://github.com/Alexou1209/DEC-Final-Project-Automated-Turret)
-An autonomous, computer-vision-driven target-tracking turret. Features real-time image processing combined with precise embedded motor control.
-
-### [RPI-Pico-oscilloscope-and-logic-analyzer](https://github.com/Alexou1209/RPI-Pico-oscillocope-and-logic-analyzer)
-A pocket-sized digital measurement tool utilizing the RP2350 microcontroller. Leverages DMA/PIO for high-speed signal capture and raw data extraction.
-
-### [DEC-S5-Project-Mini_Factory](https://github.com/Alexou1209/DEC-S5-Project-Mini_Factory)
-A 4-week collaborative project replicating a distributed smart factory. Features automated part sorting using a custom scale, an autonomous AGV (ESP32 over Wi-Fi), a sorting arm, and a centralized STM32-managed CAN bus network.
-
-###  [DEC-S3-Project-Robotic-Arm](https://github.com/Alexou1209/DEC-S3-Project-Robotic-Arm)
-A 4-week collaborative project designing a distributed Master-Slave microcontroller architecture (PIC16F88 & DS89C450) to control a robotic arm. Developed low-level PIC assembly code to optimize multi-channel PWM generation, implemented ADC data acquisition for a load cell, and established asynchronous UART serial communication between the processors.
-
+## Key Projects (Featured Below)
+- **[DEC-Final-Project-Automated-Turret](https://github.com/Alexou1209/DEC-Final-Project-Automated-Turret)** — Autonomous target-tracking turret with foam dart firing.
+- **[RPI-Pico-oscilloscope-and-logic-analyzer](https://github.com/Alexou1209/RPI-Pico-oscillocope-and-logic-analyzer)** — Pocket-sized RP2350 digital measurement tool utilizing DMA/PIO for high-speed signal capture.
+- **[DEC-S5-Project-Mini_Factory](https://github.com/Alexou1209/DEC-S5-Project-Mini_Factory)** — Mini sorting factory featuring an STM32, an ESP32, a C# controller app, and CAN bus communication.
+- **[DEC-S3-Project-Robotic-Arm](https://github.com/Alexou1209/DEC-S3-Project-Robotic-Arm)** — Master-slave robotic arm controller using PIC16F88 assembly (PWM/ADC) and DS89C450 communication via UART.
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 * **Email:** Alexandredionne1209@gmail.com
-* **LinkedIn:** [://linkedin.com](linkedin.com/in/alexandre-dionne-80a296412)
+- **LinkedIn:** [linkedin.com/in/alexandre-dionne-80a296412](https://www.linkedin.com/in/alexandre-dionne-80a296412)
