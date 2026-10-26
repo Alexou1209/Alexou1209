@@ -22,7 +22,7 @@ Driven by an "engineering from scratch" mindset, I bridge the gap between theore
 An autonomous, computer-vision-driven target-tracking turret. Features real-time image processing combined with precise embedded motor control.
 
 ### [RPI-Pico-oscilloscope-and-logic-analyzer](https://github.com/Alexou1209/RPI-Pico-oscillocope-and-logic-analyzer)
-A pocket-sized digital measurement tool utilizing the RP2040 microcontroller. Leverages DMA/PIO for high-speed signal capture and raw data extraction.
+A pocket-sized digital measurement tool utilizing the RP2350 microcontroller. Leverages DMA/PIO for high-speed signal capture and raw data extraction.
 
 ### [DEC-S5-Project-Mini_Factory](https://github.com/Alexou1209/DEC-S5-Project-Mini_Factory)
 A 4-week collaborative project replicating a distributed smart factory. Features automated part sorting using a custom scale, an autonomous AGV (ESP32 over Wi-Fi), a sorting arm, and a centralized STM32-managed CAN bus network.
