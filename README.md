@@ -18,7 +18,7 @@ Driven by an "engineering from scratch" mindset, I bridge the gap between theore
 
 ## Key Projects (Featured Below)
 - **[DEC-Final-Project-Automated-Turret](https://github.com/Alexou1209/DEC-Final-Project-Automated-Turret)** — Autonomous target-tracking turret with foam dart firing.
-- **[RPI-Pico-oscilloscope-and-logic-analyzer](https://github.com/Alexou1209/RPI-Pico-oscillocope-and-logic-analyzer)** — Pocket-sized RP2350 digital measurement tool utilizing DMA/PIO for high-speed signal capture.
+- **[RPI-Pico-oscilloscope-and-logic-analyzer](https://github.com/Alexou1209/RPI-Pico-oscilloscope-and-logic-analyzer)** — Pocket-sized RP2350 digital measurement tool utilizing DMA/PIO for high-speed signal capture.
 - **[DEC-S5-Project-Mini_Factory](https://github.com/Alexou1209/DEC-S5-Project-Mini_Factory)** — Mini sorting factory featuring an STM32, an ESP32, a C# controller app, and CAN bus communication.
 - **[DEC-S3-Project-Robotic-Arm](https://github.com/Alexou1209/DEC-S3-Project-Robotic-Arm)** — Master-slave robotic arm controller using PIC16F88 assembly (PWM/ADC) and DS89C450 communication via UART.
 ---
